@@ -1,0 +1,2 @@
+class InvalidEntityStrategyError(Exception):
+    pass
